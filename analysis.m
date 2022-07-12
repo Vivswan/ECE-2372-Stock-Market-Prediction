@@ -1,7 +1,7 @@
 clear;
 close all;
 
-directory = "results\";
+directory = "_data\results\";
 files = dir(fullfile(directory, '*.mat'));
 
 combined_filepath = [""];
