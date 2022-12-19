@@ -8,5 +8,5 @@ matplotlib~=3.5.1
 keras~=2.8.0
 transformers~=4.18.0
 unicodecsv~=0.14.1
-torch~=1.11.0+cu113
+torch
 scipy~=1.8.0
