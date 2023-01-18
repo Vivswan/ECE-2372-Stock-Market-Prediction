@@ -11,6 +11,6 @@ Run the main.py to preform the following process incuding training and testing:
 5. Sanitize and Filter Stock data
 6. Merge Sentiment and Stock data
 7. Filter the data
-8. Train model using L2 (to change the normalisation, change the normalize_dataset function in model/lstm.py)
+8. Train model using L2
 
 Then use analysis.m with matlab to analysis the results. 
