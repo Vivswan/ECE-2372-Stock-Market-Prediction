@@ -1,12 +1,12 @@
 tensorflow
 tensorboard
-yfinance~=0.1.70
+yfinance>=0.1.70
 pandas
 simplejson
 numpy
 matplotlib
 keras
 transformers
-unicodecsv~=0.14.1
+unicodecsv>=0.14.1
 torch
-scipy~=1.8.0
+scipy>=1.10.0
